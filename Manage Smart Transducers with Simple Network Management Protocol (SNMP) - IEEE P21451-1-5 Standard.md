@@ -18,6 +18,6 @@
 
 ## Contact
 
-<img src="/home/zwt/real_home_dir___/work/docker_workspace/mynginx/bio.png" alt="bio.png" width="200"/>
+<img src="bio.png" alt="bio.png" width="200"/>
 
 **Jun WU**  \<junwuhn@sjtu.edu.cn\> received the Ph.D. degree in information and telecommunication studies from Waseda University, Japan, in 2011. He is currently an Associate Professor with the School of Cyber Security, Shanghai Jiao Tong University, China, where he is also the Vice Director of the National Engineering Laboratory for Information Content Analysis Technology. His research interests include advanced computing, communications and security techniques of software-defined networks, information-centric networks smart grids, and the Internet of Things.
