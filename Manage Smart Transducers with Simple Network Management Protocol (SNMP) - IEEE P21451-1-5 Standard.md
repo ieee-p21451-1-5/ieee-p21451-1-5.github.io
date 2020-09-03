@@ -2,7 +2,7 @@
 
 ## Latest News
 
-- INTEROP 2020 is to be held online on October 18-21 2020!
+- INTEROP 2020 is to be held online on October 18-21, 2020!
 
   https://ieee-p21451-1-5.github.io/INTEROP-2020/
 
