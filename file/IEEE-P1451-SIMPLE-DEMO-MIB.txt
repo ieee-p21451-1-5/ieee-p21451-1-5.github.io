@@ -1,0 +1,63 @@
+IEEE-P1451-SIMPLE-DEMO-MIB DEFINITIONS ::= BEGIN
+ 
+IMPORTS
+	enterprises	FROM RFC1155-SMI
+	OBJECT-TYPE	FROM SNMPv2-SMI;
+
+sjtu			OBJECT IDENTIFIER ::= { enterprises 7934 }
+
+ieeeP1451Project	OBJECT IDENTIFIER ::= { sjtu 1451 }
+
+ieeeP1451Sensor		OBJECT IDENTIFIER ::= { ieeeP1451Project 1 }
+
+ieeeP1451Actuator	OBJECT IDENTIFIER ::= { ieeeP1451Project 2 }
+
+--
+-- sensors
+--
+
+seTemperature	OBJECT-TYPE
+	SYNTAX		INTEGER (0..255)
+	MAX-ACCESS	read-only
+	STATUS		current
+	DESCRIPTION	
+		"The output value of an 8-bit temperature sensor."
+	::= { ieeeP1451Sensor 1 }
+
+seLight	OBJECT-TYPE
+	SYNTAX		INTEGER (0..255)
+	MAX-ACCESS	read-only
+	STATUS		current
+	DESCRIPTION
+		"The output value of an 8-bit pressure sensor."
+	::= { ieeeP1451Sensor 2 }
+
+--
+-- actuators
+--
+
+acLamp		OBJECT-TYPE
+	SYNTAX		INTEGER { off(0), on(1) }
+	MAX-ACCESS	read-write
+	STATUS		current
+	DESCRIPTION
+		"The on/off state of a lamp."
+	::= { ieeeP1451Actuator 1 }
+
+acHumidifier	OBJECT-TYPE
+	SYNTAX		INTEGER { off(0), on(1) }
+	MAX-ACCESS	read-write
+	STATUS		current
+	DESCRIPTION
+		"The on/off state of a humidifier."
+	::= { ieeeP1451Actuator 2 }
+
+acLcd		OBJECT-TYPE
+	SYNTAX		OCTET STRING
+	MAX-ACCESS	read-write
+	STATUS		current
+	DESCRIPTION
+		"The display content of an LCD screen."
+	::= { ieeeP1451Actuator 3 }
+
+END
