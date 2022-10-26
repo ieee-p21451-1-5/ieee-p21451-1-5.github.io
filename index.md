@@ -24,7 +24,7 @@
 
 [2] **X. Feng**, **J. Wu**, **J. Li** and S. Wang, [Efficient Secure Access to IEEE 21451 Based Wireless IIoT Using Optimized TEDS and MIB](https://doi.org/10.1109/IECON.2018.8591182), IECON 2018 - 44th Annual Conference of the IEEE Industrial Electronics Society, Washington, DC, 2018, pp. 5221-5227, doi: 10.1109/IECON.2018.8591182.
 
-[3] **J. Ren**, **Y. Liu**, **J. Wu**, **J. Li** and K. Wang, [Smart NCAP supporting Low-Rate DDoS Detection for IEEE 21451-1-5 Internet of Things](https://doi.org/10.1109/ICPHYS.2019.8780132), 2019 IEEE International Conference on Industrial Cyber Physical Systems (ICPS), Taipei, Taiwan, 2019, pp. 532-535, doi: 10.1109/ICPHYS.2019.8780132.
+[3] **J. Ren**, **Y. Liu**, **J. Wu**, **J. Li** and **K. Wang**, [Smart NCAP supporting Low-Rate DDoS Detection for IEEE 21451-1-5 Internet of Things](https://doi.org/10.1109/ICPHYS.2019.8780132), 2019 IEEE International Conference on Industrial Cyber Physical Systems (ICPS), Taipei, Taiwan, 2019, pp. 532-535, doi: 10.1109/ICPHYS.2019.8780132.
 
 [4] **W. Zhang**, M. Dong, K. Ota, **J. Li**, W. Yang and **J. Wu**, [A Big Data Management Architecture for Standardized IoT Based on Smart Scalable SNMP](https://doi.org/10.1109/ICC40277.2020.9149368), ICC 2020 - 2020 IEEE International Conference on Communications (ICC), 2020, pp. 1-7, doi: 10.1109/ICC40277.2020.9149368.
 
