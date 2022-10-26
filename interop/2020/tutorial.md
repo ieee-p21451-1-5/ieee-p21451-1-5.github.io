@@ -1,4 +1,4 @@
-# Interoperability Tests with IEEE P21451-1-5 Standard's Demonstration System
+# Interoperability Tests with Our Demonstration System
 
 ## 1. Get Your Hands Dirty!
 
@@ -55,11 +55,11 @@ Congratulations! Your machine is now fired up.
 
 We expose the following sensors and actuators to remote testers:
 
-- one temperature sensor
-- one photosensitive sensor
-- one humidifier
-- one lamp
-- and one LCD screen
+- A temperature sensor
+- A photosensitive sensor
+- A humidifier
+- A lamp
+- An LCD screen
 
 Here is a picture of the system:
 

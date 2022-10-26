@@ -1,6 +1,8 @@
-# IEEE P21451-1-5 Standard's Demonstration System for INTEROP 2020
+# Demonstration System at INTEROP 2020
 
-> Abstract: IEEE P21451-1-5 standard specifies a universal and standardized way of accessing and managing Internet of Things (IoT) based on Simple Network Management Protocol (SNMP). In this article, we explain the basic concepts in IEEE P1451, provide an overview of IEEE P21451-1-5 standard and introduce the demonstration system to be presented in INTEROP 2020, including its building blocks, over-all structure and the workflow of IEEE P21451-1-5 in this demonstration system.
+> Abstract:
+>
+> IEEE P21451-1-5 standard specifies a universal and standardized way of accessing and managing Internet of Things (IoT) based on Simple Network Management Protocol (SNMP). In this article, we explain the basic concepts in IEEE P1451, provide an overview of IEEE P21451-1-5 standard and introduce the demonstration system to be presented in INTEROP 2020, including its building blocks, over-all structure and the workflow of IEEE P21451-1-5 in this demonstration system.
 
 ## 1. Introduction
 
@@ -44,12 +46,12 @@ The process of accessing or managing IoT using SNMP goes as follows: Firstly, a 
 
 ## 5. Useful Links and Additional Information
 
-- Project information page on IEEE-SA website: https://standards.ieee.org/project/21451-1-5.html
-- GitHub: https://github.com/ieee-p21451-1-5
-- Hardware specification of Raspberry Pi 3B: https://www.raspberrypi.org/products/raspberry-pi-3-model-b/
+- Project information page on IEEE-SA website: [https://standards.ieee.org/project/21451-1-5.html](https://standards.ieee.org/project/21451-1-5.html)
+- GitHub: [https://github.com/ieee-p21451-1-5](https://github.com/ieee-p21451-1-5)
+- Hardware specification of Raspberry Pi 3B: [https://www.raspberrypi.org/products/raspberry-pi-3-model-b/](https://www.raspberrypi.org/products/raspberry-pi-3-model-b/)
 - Popular open-source SNMP implementations:
-    - `net-snmp`: http://www.net-snmp.org/
-    - `pysnmp`: https://github.com/etingof/pysnmp
+    - `net-snmp`: [http://www.net-snmp.org/](http://www.net-snmp.org/)
+    - `pysnmp`: [https://github.com/etingof/pysnmp](https://github.com/etingof/pysnmp)
 - Selected publications related to our work: [2], [3] and [4].
 
 ## 6. Acknowledgment
@@ -58,13 +60,13 @@ The IEEE P21451-1-5 working group would like to express their very great appreci
 
 ## 7. References
 
-[1] E. Y. Song and K. Lee, "Understanding IEEE 1451-Networked smart transducer interface standard - What is a smart transducer?," in IEEE Instrumentation & Measurement Magazine, vol. 11, no. 2, pp. 11-17, April 2008, doi: [10.1109/MIM.2008.4483728](https://doi.org/10.1109/MIM.2008.4483728).
+[1] E. Y. Song and K. Lee, [Understanding IEEE 1451-Networked smart transducer interface standard - What is a smart transducer?](https://doi.org/10.1109/MIM.2008.4483728), in IEEE Instrumentation & Measurement Magazine, vol. 11, no. 2, pp. 11-17, April 2008, doi: 10.1109/MIM.2008.4483728.
 
-[2] Longhua Guo, Jun Wu, Jingwei Li, Jianhua Li and W. J. Miller, "A lightweight secure time synchronization mechanism for ISO/IEC/IEEE 21451 sensor networks," 2015 IEEE International Symposium on Precision Clock Synchronization for Measurement, Control, and Communication (ISPCS), Beijing, 2015, pp. 13-18, doi: [10.1109/ISPCS.2015.7324673](https://doi.org/10.1109/ISPCS.2015.7324673).
+[2] **Longhua Guo**, **Jun Wu**, Jingwei Li, **Jianhua Li** and W. J. Miller, [A lightweight secure time synchronization mechanism for ISO/IEC/IEEE 21451 sensor networks](https://doi.org/10.1109/ISPCS.2015.7324673), 2015 IEEE International Symposium on Precision Clock Synchronization for Measurement, Control, and Communication (ISPCS), Beijing, 2015, pp. 13-18, doi: 10.1109/ISPCS.2015.7324673.
 
-[3] X. Feng, J. Wu, J. Li and S. Wang, "Efficient Secure Access to IEEE 21451 Based Wireless IIoT Using Optimized TEDS and MIB," IECON 2018 - 44th Annual Conference of the IEEE Industrial Electronics Society, Washington, DC, 2018, pp. 5221-5227, doi: [10.1109/IECON.2018.8591182](https://doi.org/10.1109/IECON.2018.8591182).
+[3] **X. Feng**, **J. Wu**, **J. Li** and S. Wang, [Efficient Secure Access to IEEE 21451 Based Wireless IIoT Using Optimized TEDS and MIB](https://doi.org/10.1109/IECON.2018.8591182), IECON 2018 - 44th Annual Conference of the IEEE Industrial Electronics Society, Washington, DC, 2018, pp. 5221-5227, doi: 10.1109/IECON.2018.8591182.
 
-[4] J. Ren, Y. Liu, J. Wu, J. Li and K. Wang, "Smart NCAP supporting Low-Rate DDoS Detection for IEEE 21451-1-5 Internet of Things," 2019 IEEE International Conference on Industrial Cyber Physical Systems (ICPS), Taipei, Taiwan, 2019, pp. 532-535, doi: [10.1109/ICPHYS.2019.8780132](https://doi.org/10.1109/ICPHYS.2019.8780132).
+[4] **J. Ren**, **Y. Liu**, **J. Wu**, **J. Li** and K. Wang, [Smart NCAP supporting Low-Rate DDoS Detection for IEEE 21451-1-5 Internet of Things](https://doi.org/10.1109/ICPHYS.2019.8780132), 2019 IEEE International Conference on Industrial Cyber Physical Systems (ICPS), Taipei, Taiwan, 2019, pp. 532-535, doi: 10.1109/ICPHYS.2019.8780132.
 
 # Access Our Demo Right Now!
 
@@ -74,4 +76,4 @@ Here is [a detailed tutorial](tutorial) on how to access the sensors and actuato
 
 <img src="/image/jun-wu.png" alt="jun-wu.png" width="200">
 
-**Jun Wu** \<junwuhn@sjtu.edu.cn\> received the Ph.D. degree in information and telecommunication studies from Waseda University, Japan, in 2011. He is currently an Associate Professor with the School of Cyber Security, Shanghai Jiao Tong University, China, where he is also the Vice Director of the National Engineering Laboratory for Information Content Analysis Technology. His research interests include advanced computing, communications and security techniques of software-defined networks, information-centric networks smart grids, and the Internet of Things.
+**Jun Wu** <[junwuhn@sjtu.edu.cn](mailto:junwuhn@sjtu.edu.cn)> received the Ph.D. degree in information and telecommunication studies from Waseda University, Japan, in 2011. He is currently an Associate Professor with the School of Cyber Security, Shanghai Jiao Tong University, China, where he is also the Vice Director of the National Engineering Laboratory for Information Content Analysis Technology. His research interests include advanced computing, communications and security techniques of software-defined networks, information-centric networks smart grids, and the Internet of Things.
