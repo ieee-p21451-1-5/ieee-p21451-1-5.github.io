@@ -7,7 +7,7 @@
 - **June 2021** InterOp PlugFest is held at ISIE'21
     - [[program](https://web.archive.org/web/20210801104533/https://www.isie2021.org/files/ISIE2021_InterOp.pdf?210616)] [[media coverage](https://ieeexplore.ieee.org/document/9662487)]
 - **October 2020** InterOp PlugFest is held at IECON'20
-    - [[program](http://www.ieeeiciea.org/iecon2020/download/InterOp_IES_IECON2020_r7.pdf)] [[media coverage](https://ieeexplore.ieee.org/document/9387211)]
+    - [[program](http://www.ieeeiciea.org/iecon2020/download/InterOp_IES_IECON2020_r7.pdf)] [[media coverage](https://ieeexplore.ieee.org/document/9387211)] [[brochure](http://www.ieeeiciea.org/iecon2020/proceeding/docs/INTEROP2020.pdf)] [[tutorial](/interop/2020/tutorial)]
 - **October 2019** InterOp PlugFest is held at IECON'19
     - [[program](https://web.archive.org/web/20200224051104/https://iecon2019.org/interop-standards-and-interoperability-plugfest/)] [[media coverage](https://ieeexplore.ieee.org/document/9044671)]
 - **October 2018** InterOp PlugFest is held at IECON'18

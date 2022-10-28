@@ -1,8 +1,10 @@
-# Demonstration System at INTEROP 2020
+# IEEE P21451-1-5: Accessing and Managing Internet of Things Based on Customized SNMP
 
-> Abstract:
->
-> IEEE P21451-1-5 standard specifies a universal and standardized way of accessing and managing Internet of Things (IoT) based on Simple Network Management Protocol (SNMP). In this article, we explain the basic concepts in IEEE P1451, provide an overview of IEEE P21451-1-5 standard and introduce the demonstration system to be presented in INTEROP 2020, including its building blocks, over-all structure and the workflow of IEEE P21451-1-5 in this demonstration system.
+> This is a short paper that introduces our demonstration system, and is included in the [brochure for INTEROP 2020](http://www.ieeeiciea.org/iecon2020/proceeding/docs/INTEROP2020.pdf). PDF version is also [available](/file/interop2020_shortpaper.pdf).
+
+## Abstract
+
+IEEE P21451-1-5 standard specifies a universal and standardized way of accessing and managing Internet of Things (IoT) based on Simple Network Management Protocol (SNMP). In this article, we explain the basic concepts in IEEE P1451, provide an overview of IEEE P21451-1-5 standard and introduce the demonstration system to be presented in INTEROP 2020, including its building blocks, over-all structure and the workflow of IEEE P21451-1-5 in this demonstration system.
 
 ## 1. Introduction
 
