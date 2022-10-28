@@ -94,7 +94,7 @@ The reset part of these OIDs are illustrated with this tree view:
 
 For example, `acLamp` is the variable standing for the lamp in our demonstration system. It is the first child node (`.1`) of `ieeeP1451Actuator`, who in turn is the second child node (`.2`) of `ieeeP1451Project`, who again is the 1451st child node (`.1451`) of `sjtu`, who is the 7934th child node (`.7934`) of `enterprise` (`1.3.6.1.4.1`). Therefore, the complete OID of `acLamp` is `1.3.6.1.4.1.7934.1451.2.1`.
 
-OIDs, among other attributes of these variables, are specified in the MIB file [IEEE-P1451-SIMPLE-DEMO-MIB.txt](/file/IEEE-P1451-SIMPLE-DEMO-MIB.txt).
+OIDs, among other attributes of these variables, are specified in the MIB file [IEEE-P1451-SIMPLE-DEMO-MIB.txt](https://github.com/ieee-p21451-1-5/net-snmp/blob/interop2020/mibs/IEEE-P1451-SIMPLE-DEMO-MIB.txt).
 
 Having known the OIDs, we are now able to access the corresponding transducers using SNMP SET/GET messages.
 
