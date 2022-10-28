@@ -62,6 +62,8 @@ The IEEE P21451-1-5 working group would like to express their very great appreci
 
 ## 7. References
 
+(As of 2020. See an updated list [here](/#publications).)
+
 [1] E. Y. Song and K. Lee, [Understanding IEEE 1451-Networked smart transducer interface standard - What is a smart transducer?](https://doi.org/10.1109/MIM.2008.4483728), in IEEE Instrumentation & Measurement Magazine, vol. 11, no. 2, pp. 11-17, April 2008, doi: 10.1109/MIM.2008.4483728.
 
 [2] **Longhua Guo**, **Jun Wu**, Jingwei Li, **Jianhua Li** and W. J. Miller, [A lightweight secure time synchronization mechanism for ISO/IEC/IEEE 21451 sensor networks](https://doi.org/10.1109/ISPCS.2015.7324673), 2015 IEEE International Symposium on Precision Clock Synchronization for Measurement, Control, and Communication (ISPCS), Beijing, 2015, pp. 13-18, doi: 10.1109/ISPCS.2015.7324673.
