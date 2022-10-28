@@ -1,5 +1,9 @@
 # Home
 
+## Status
+
+**Our draft standard is being reviewed and prepared for ballot!**
+
 ## Events
 
 - **October 2021** InterOp PlugFest is held at IECON'21
