@@ -1,6 +1,6 @@
 # IEEE P21451-1-5: Accessing and Managing Internet of Things Based on Customized SNMP
 
-> This is a short paper that introduces our demonstration system, and is included in the [brochure for INTEROP 2020](http://www.ieeeiciea.org/iecon2020/proceeding/docs/INTEROP2020.pdf). PDF version is also [available](/file/interop2020_shortpaper.pdf).
+> This is a short paper that introduces our demonstration system, and is included in the [brochure for INTEROP 2020](http://www.ieeeiciea.org/iecon2020/proceeding/docs/INTEROP2020.pdf). PDF version is also [available](/files/interop2020_shortpaper.pdf).
 
 ## Abstract
 
