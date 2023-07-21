@@ -6,6 +6,7 @@
 
 ## Events
 
+- **September 2022** Industrial Application Meeting of IEEE 21451-1-5 is held online.
 - **October 2021** InterOp PlugFest is held at IECON'21 (virtual event)
     - [[program](https://ieeeiecon.org/wp-content/uploads/sites/293/InterOp_IES_IECON2021_Program_r3F.pdf)] [[media coverage](https://ieeexplore.ieee.org/document/9757000)]
 - **June 2021** InterOp PlugFest is held at ISIE'21 (virtual event)
