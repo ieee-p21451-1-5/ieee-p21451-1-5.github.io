@@ -34,6 +34,10 @@
 
 [5] **K. Zhou**, **J. Wu**, K. B. Lee and E. Y. Song, [Security for IEEE P1451.0-Based IoT Sensor Networks](https://doi.org/10.1109/IECON48115.2021.9589277), IECON 2021 – 47th Annual Conference of the IEEE Industrial Electronics Society, 2021, pp. 1-6, doi: 10.1109/IECON48115.2021.9589277.
 
+[6] Hansong Xu, **Jun Wu**, Heng Pan, Jia Gu, and **Xinping Guan**, Delay Safety-Aware Digital Twin Empowered Industrial Sensing-Actuation Systems Using Transferable and Reinforced Learning, IEEE Transactions on Industrial Informatics, DOI: 10.1109/TII.2023.3241616, 2023.
+
+[7] Hansong Xu, **Jun Wu**, Qianqian Pan, **Xinping Guan**, Mohsen Guizani, A Survey on Digital Twin for Industrial Internet of Things: Applications, Technologies and Tools,  IEEE Communications Surveys and Tutorials, DOI: 10.1109/COMST.2023.3297395, 2023.
+
 # Contact
 
 <img src="image/jun-wu.png" alt="jun-wu.png" width="200">
