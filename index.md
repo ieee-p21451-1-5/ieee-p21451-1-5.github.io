@@ -1,5 +1,19 @@
 # Home
 
+# Leaders of the Standard Working Group
+
+<img src="/image/jun-wu.png" alt="jun-wu.png" width="200">
+
+Prof. Jun Wu is Working Group Chair of IEEE P21451-1-5. His research interests include advanced computing, communications and security techniques of software-defined networks, information-centric networks smart grids, and the Internet of Things.
+
+<img src="/image/kang-lee.jpg" alt="kang-lee.jpg" width="200">
+
+Dr. Kang Lee is Working Group Co-Chair of IEEE P21451-1-5. He is an IEEE Fellow who worked with the with the National Institute of Standards and Technology with over 40 years of U.S. Government services and has continued working as a Research Associate today.
+
+<img src="/image/xinping-guan.jpg" alt="xinping-guan.jpg" width="200">
+
+Prof. Xinping Guan is the Chair of the Expert Committee of IEEE P21451-1-5 Standard. is an IEEE Fellow and currently a Chair Professor with Shanghai Jiao Tong University, Shanghai, China, where he is the Dean of the School of Electronic, Information and Electrical Engineering, and the Director of the Key Laboratory of Systems Control and Information Processing, Ministry of Education of China.
+
 ## Status
 
 **Our draft standard is being reviewed and prepared for ballot!**
@@ -38,9 +52,3 @@
 [6] Hansong Xu, **Jun Wu**, Heng Pan, Jia Gu, and **Xinping Guan**, Delay Safety-Aware Digital Twin Empowered Industrial Sensing-Actuation Systems Using Transferable and Reinforced Learning, IEEE Transactions on Industrial Informatics, DOI: 10.1109/TII.2023.3241616, 2023.
 
 [7] Hansong Xu, **Jun Wu**, Qianqian Pan, **Xinping Guan**, Mohsen Guizani, A Survey on Digital Twin for Industrial Internet of Things: Applications, Technologies and Tools,  IEEE Communications Surveys and Tutorials, DOI: 10.1109/COMST.2023.3297395, 2023.
-
-# Contact
-
-<img src="image/jun-wu.png" alt="jun-wu.png" width="200">
-
-**Jun Wu** <[junwuhn@sjtu.edu.cn](mailto:junwuhn@sjtu.edu.cn)> received the Ph.D. degree in information and telecommunication studies from Waseda University, Japan, in 2011. He is currently an Associate Professor with the School of Cyber Security, Shanghai Jiao Tong University, China, where he is also the Vice Director of the National Engineering Laboratory for Information Content Analysis Technology. His research interests include advanced computing, communications and security techniques of software-defined networks, information-centric networks smart grids, and the Internet of Things.
