@@ -12,7 +12,7 @@ Dr. Kang Lee is Working Group Co-Chair of IEEE P21451-1-5. He is an IEEE Fellow 
 
 <img src="/image/xinping-guan.jpg" alt="xinping-guan.jpg" width="200">
 
-Prof. Xinping Guan is the Chair of the Expert Committee of IEEE P21451-1-5 Standard. is an IEEE Fellow and currently a Chair Professor with Shanghai Jiao Tong University, Shanghai, China, where he is the Dean of the School of Electronic, Information and Electrical Engineering, and the Director of the Key Laboratory of Systems Control and Information Processing, Ministry of Education of China.
+Prof. Xinping Guan is the Chair of the Expert Committee of IEEE P21451-1-5 Standard. He is an IEEE Fellow and currently a Chair Professor with Shanghai Jiao Tong University, Shanghai, China, where he is the Dean of the School of Electronic, Information and Electrical Engineering, and the Director of the Key Laboratory of Systems Control and Information Processing, Ministry of Education of China.
 
 ## Status
 
