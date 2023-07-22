@@ -39,16 +39,16 @@ Prof. Xinping Guan is the Chair of the Expert Committee of IEEE P21451-1-5 Stand
 
 ## Publications
 
-[1] **Longhua Guo**, **Jun Wu**, Jingwei Li, **Jianhua Li** and W. J. Miller, [A lightweight secure time synchronization mechanism for ISO/IEC/IEEE 21451 sensor networks](https://doi.org/10.1109/ISPCS.2015.7324673), 2015 IEEE International Symposium on Precision Clock Synchronization for Measurement, Control, and Communication (ISPCS), Beijing, 2015, pp. 13-18, doi: 10.1109/ISPCS.2015.7324673.
+[1] Hansong Xu, **Jun Wu**, Qianqian Pan, **Xinping Guan**, Mohsen Guizani, A Survey on Digital Twin for Industrial Internet of Things: Applications, Technologies and Tools,  IEEE Communications Surveys and Tutorials, DOI: 10.1109/COMST.2023.3297395, 2023.
 
-[2] **X. Feng**, **J. Wu**, **J. Li** and S. Wang, [Efficient Secure Access to IEEE 21451 Based Wireless IIoT Using Optimized TEDS and MIB](https://doi.org/10.1109/IECON.2018.8591182), IECON 2018 - 44th Annual Conference of the IEEE Industrial Electronics Society, Washington, DC, 2018, pp. 5221-5227, doi: 10.1109/IECON.2018.8591182.
+[2] Hansong Xu, **Jun Wu**, Heng Pan, Jia Gu, and **Xinping Guan**, Delay Safety-Aware Digital Twin Empowered Industrial Sensing-Actuation Systems Using Transferable and Reinforced Learning, IEEE Transactions on Industrial Informatics, DOI: 10.1109/TII.2023.3241616, 2023.
 
-[3] **J. Ren**, **Y. Liu**, **J. Wu**, **J. Li** and **K. Wang**, [Smart NCAP supporting Low-Rate DDoS Detection for IEEE 21451-1-5 Internet of Things](https://doi.org/10.1109/ICPHYS.2019.8780132), 2019 IEEE International Conference on Industrial Cyber Physical Systems (ICPS), Taipei, Taiwan, 2019, pp. 532-535, doi: 10.1109/ICPHYS.2019.8780132.
+[3] **K. Zhou**, **J. Wu**, K. B. Lee and E. Y. Song, [Security for IEEE P1451.0-Based IoT Sensor Networks](https://doi.org/10.1109/IECON48115.2021.9589277), IECON 2021 – 47th Annual Conference of the IEEE Industrial Electronics Society, 2021, pp. 1-6, doi: 10.1109/IECON48115.2021.9589277.
 
 [4] **W. Zhang**, M. Dong, K. Ota, **J. Li**, W. Yang and **J. Wu**, [A Big Data Management Architecture for Standardized IoT Based on Smart Scalable SNMP](https://doi.org/10.1109/ICC40277.2020.9149368), ICC 2020 - 2020 IEEE International Conference on Communications (ICC), 2020, pp. 1-7, doi: 10.1109/ICC40277.2020.9149368.
 
-[5] **K. Zhou**, **J. Wu**, K. B. Lee and E. Y. Song, [Security for IEEE P1451.0-Based IoT Sensor Networks](https://doi.org/10.1109/IECON48115.2021.9589277), IECON 2021 – 47th Annual Conference of the IEEE Industrial Electronics Society, 2021, pp. 1-6, doi: 10.1109/IECON48115.2021.9589277.
+[5] **J. Ren**, **Y. Liu**, **J. Wu**, **J. Li** and **K. Wang**, [Smart NCAP supporting Low-Rate DDoS Detection for IEEE 21451-1-5 Internet of Things](https://doi.org/10.1109/ICPHYS.2019.8780132), 2019 IEEE International Conference on Industrial Cyber Physical Systems (ICPS), Taipei, Taiwan, 2019, pp. 532-535, doi: 10.1109/ICPHYS.2019.8780132.
 
-[6] Hansong Xu, **Jun Wu**, Heng Pan, Jia Gu, and **Xinping Guan**, Delay Safety-Aware Digital Twin Empowered Industrial Sensing-Actuation Systems Using Transferable and Reinforced Learning, IEEE Transactions on Industrial Informatics, DOI: 10.1109/TII.2023.3241616, 2023.
+[6] **X. Feng**, **J. Wu**, **J. Li** and S. Wang, [Efficient Secure Access to IEEE 21451 Based Wireless IIoT Using Optimized TEDS and MIB](https://doi.org/10.1109/IECON.2018.8591182), IECON 2018 - 44th Annual Conference of the IEEE Industrial Electronics Society, Washington, DC, 2018, pp. 5221-5227, doi: 10.1109/IECON.2018.8591182.
 
-[7] Hansong Xu, **Jun Wu**, Qianqian Pan, **Xinping Guan**, Mohsen Guizani, A Survey on Digital Twin for Industrial Internet of Things: Applications, Technologies and Tools,  IEEE Communications Surveys and Tutorials, DOI: 10.1109/COMST.2023.3297395, 2023.
+[7] **Longhua Guo**, **Jun Wu**, Jingwei Li, **Jianhua Li** and W. J. Miller, [A lightweight secure time synchronization mechanism for ISO/IEC/IEEE 21451 sensor networks](https://doi.org/10.1109/ISPCS.2015.7324673), 2015 IEEE International Symposium on Precision Clock Synchronization for Measurement, Control, and Communication (ISPCS), Beijing, 2015, pp. 13-18, doi: 10.1109/ISPCS.2015.7324673.
